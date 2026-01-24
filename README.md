@@ -2,18 +2,9 @@
 
 <div align="center">
   
-```ascii
-    ___
-   /   \
-  | O O |
-   \   /
-    | |
-   /| |\
-  (_|_|_)
-```
-  
-### Hi there! I'm **Alok Kumar Dalei** 👋
-**Student • Developer • Tech Enthusiast**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FDB44B&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Alok+Kumar+Dalei+%F0%9F%91%8B;Student+%7C+Developer+%7C+Tech+Enthusiast;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20the%20Batcave&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
 *"It's not who I am underneath, but what I do that defines me."*
 
@@ -26,9 +17,17 @@
 
 ## 🌃 About Me
 
-I'm a passionate student developer navigating the ever-evolving landscape of technology. Like Batman's dedication to protecting Gotham, I'm committed to crafting clean, efficient code and building solutions that matter. My journey in tech is driven by curiosity, continuous learning, and a desire to make an impact through innovation.
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-**Current Focus:** Expanding my technical expertise while exploring emerging technologies and best practices in software development.
+I'm a passionate student developer navigating the ever-evolving landscape of technology. Like Batman's dedication to protecting Gotham, I'm committed to crafting clean, efficient code and building solutions that matter.
+
+🎓 **Education:** Vedam School Of Technology  
+🌱 **Currently Learning:** Python, Golang, Software Architecture  
+💡 **Interests:** Web Development, Backend Systems, Problem Solving  
+🎯 **Goals:** Build impactful projects & Master DSA  
+⚡ **Fun Fact:** I debug code faster in the dark 🦇
+
+<br clear="right"/>
 
 ---
 
@@ -36,23 +35,23 @@ I'm a passionate student developer navigating the ever-evolving landscape of tec
 
 <div align="center">
 
-### Core Technologies
+### 🛠️ Core Technologies
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,java&theme=dark" />
 
-### Currently Mastering
+### 🚀 Currently Mastering
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,go&theme=dark" />
+
+### 🔧 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 
 </div>
 
 ---
 
-## 🎯 What I'm Working On
+## 🎯 Developer Profile
 
 ```javascript
 const alok = {
@@ -65,17 +64,7 @@ const alok = {
 };
 ```
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokkumardalei-wq&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FDB44B&icon_color=FDB44B)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alokkumardalei-wq&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FDB44B)
-
-</div>
 
 ---
 
@@ -83,12 +72,18 @@ const alok = {
 
 <div align="center">
 
-**Open to collaborations, opportunities, and interesting tech discussions!**
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alokkumardalei-wq)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+<a href="https://github.com/alokkumardalei-wq">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -96,16 +91,17 @@ const alok = {
 
 <div align="center">
 
-### 💭 Developer Quote of the Day
+### 💭 Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-**"The night is darkest just before the dawn."**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Keep%20Coding%20Keep%20Building&fontSize=28&fontColor=fff&animation=twinkling" width="100%"/>
 
-*Keep coding, keep learning, keep building.* 🚀
+**"The night is darkest just before the dawn."** 🌅
 
 ![Visitor Count](https://profile-counter.glitch.me/alokkumardalei-wq/count.svg)
 
 </div>
+    
