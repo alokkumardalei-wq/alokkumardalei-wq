@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1a0a,50:0d4a0d,100:00ff41&height=200&section=header&text=Ben%2010%3A%20Dev%20Force&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=alokkumardalei-wq&descSize=20&descAlignY=58&descColor=39ff14" width="100%"/>
@@ -7,10 +6,8 @@
 
 <br/>
 
-<!-- 🔥 HEATBLAST — actual Ben 10 alien GIF flanking the quote 🔥 -->
-<img src="https://media1.tenor.com/m/eyNGev1_F38AAAAd/ben-10-heatblast.gif" width="160" alt="Heatblast"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://media1.tenor.com/m/mjKjUbfBVRcAAAAd/ben-10-heatblast.gif" width="160" alt="Heatblast Fist"/>
+<!-- ⌚ OMNITRIX TRANSFORMATION DIAL — custom SVG animation -->
+<img src="https://raw.githubusercontent.com/alokkumardalei-wq/alokkumardalei-wq/main/omnitrix.svg" width="100%" alt="Omnitrix Dial"/>
 
 > *"No matter what, I never give up. That's just what heroes do."* — **Ben Tennyson**
 
@@ -55,11 +52,6 @@ I'm a passionate student developer who transforms problems into solutions — ju
 
 <br/>
 
-<!-- HEATBLAST standing pose — flanking connect section -->
-<img src="https://media1.tenor.com/m/slAcBFGhp2oAAAAd/ben10-heatblast.gif" width="130" alt="Heatblast Standing"/>
-
-<br/><br/>
-
 <a href="https://github.com/alokkumardalei-wq">
   <img src="https://img.shields.io/badge/GitHub-Omnitrix%20Scan-00cc00?style=for-the-badge&logo=github&logoColor=white&labelColor=0a1a0a" />
 </a>
@@ -95,31 +87,13 @@ I'm a passionate student developer who transforms problems into solutions — ju
 
 <br/>
 
-<!-- HEATBLAST — full transformation sequence -->
-<img src="https://media1.tenor.com/m/B9mzfO8cqyYAAAAd/ben10-heatblast.gif" width="380" alt="Heatblast Transformation"/>
-
-**🔥 Heatblast activates — obliterating every bug in the codebase 🔥**
+<!-- 🔥 HEATBLAST THROWING FIREBALL — custom SVG animation -->
+<img src="https://raw.githubusercontent.com/alokkumardalei-wq/alokkumardalei-wq/main/heatblast.svg" width="100%" alt="Heatblast Fireball"/>
 
 <br/>
 
-<!-- XLR8 — actual alien GIF -->
-<img src="https://media1.tenor.com/m/9y0WVJan7nAAAAAd/ben-10-xlr8-ben-10.gif" width="380" alt="XLR8"/>
-
-**⚡ XLR8 — coding so fast the compiler can't keep up ⚡**
-
-<br/>
-
-<!-- FOUR ARMS — actual alien GIF -->
-<img src="https://media1.tenor.com/m/M4imcKEXTokAAAAd/ben10-four-arms.gif" width="380" alt="Four Arms"/>
-
-**💪 Four Arms — smashing through every problem with raw strength 💪**
-
-<br/>
-
-<!-- DIAMONDHEAD / MULTI-ALIEN EDIT -->
-<img src="https://media1.tenor.com/m/YmmhaXfk3MEAAAAd/ben10-edit.gif" width="380" alt="Ben 10 Aliens Edit"/>
-
-**💎 Diamondhead — crystal-clear, unbreakable code architecture 💎**
+<!-- ⚡ XLR8 SPEED DASH — custom SVG animation -->
+<img src="https://raw.githubusercontent.com/alokkumardalei-wq/alokkumardalei-wq/main/xlr8.svg" width="100%" alt="XLR8 Dash"/>
 
 </div>
 
@@ -201,21 +175,10 @@ const alok = {
 
 <div align="center">
 
-<!-- Ghostfreak eye reveal — creeping in before the graph -->
-<img src="https://media1.tenor.com/m/f-Kbg8VUo4oAAAAd/ben10-ghostfreak.gif" width="220" alt="Ghostfreak Eye"/>
-
-*👻 Ghostfreak phases through your commits... watching every push...*
-
-<br/>
+<!-- 👻 GHOSTFREAK FLOATING — custom SVG animation -->
+<img src="https://raw.githubusercontent.com/alokkumardalei-wq/alokkumardalei-wq/main/ghostfreak.svg" width="100%" alt="Ghostfreak Haunting"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=alokkumardalei-wq&custom_title=Ghostfreak%20Haunting%20Your%20Commits&bg_color=0a0a12&color=b366ff&line=7700ff&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-<br/>
-
-<!-- Ghostfreak laughing after haunting the graph + standing at the door -->
-<img src="https://media1.tenor.com/m/bBiRLp6ouqwAAAAd/ghostfreak-laugh.gif" width="260" alt="Ghostfreak Laugh"/>
-&nbsp;&nbsp;
-<img src="https://media1.tenor.com/m/gmcpifVXf5AAAAAd/ghostfreak-ben10.gif" width="260" alt="Ghostfreak Door"/>
 
 *👻 "Your activity graph belongs to me now." — Ghostfreak, probably 👻*
 
@@ -232,13 +195,6 @@ const alok = {
 <br/>
 
 > *"It's Hero Time."* — on every `git push`, always ⌚
-
-<br/>
-
-<!-- FINAL — Heatblast transformation + XLR8 side by side -->
-<img src="https://media1.tenor.com/m/mjKjUbfBVRcAAAAd/ben-10-heatblast.gif" width="200" alt="Heatblast Final"/>
-&nbsp;&nbsp;
-<img src="https://media1.tenor.com/m/9y0WVJan7nAAAAAd/ben-10-xlr8-ben-10.gif" width="200" alt="XLR8 Final"/>
 
 </div>
 
@@ -259,5 +215,4 @@ const alok = {
 </div>
 
 
-    
-    
+
