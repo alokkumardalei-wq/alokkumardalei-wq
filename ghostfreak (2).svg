@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 160" width="860" height="160">
+<style>
+  .ghost    { animation: float 4s ease-in-out infinite; transform-box:fill-box; transform-origin:center; }
+  .aura     { animation: auraPulse 4s ease-in-out infinite; transform-box:fill-box; transform-origin:center; }
+  .eyePulse { animation: eyeFlare 3s ease-in-out infinite; transform-box:fill-box; transform-origin:center; }
+  .omni     { animation: omniPulse 2s ease-in-out infinite; }
+  .shimmer1 { animation: shimmer 5s ease-in-out infinite 0.5s; }
+  .shimmer2 { animation: shimmer 5s ease-in-out infinite 1.5s; }
+  .p1 { fill:#aa44ff; animation: rise1 6.0s linear infinite 0.0s; }
+  .p2 { fill:#cc66ff; animation: rise2 5.0s linear infinite 1.0s; }
+  .p3 { fill:#9933ff; animation: rise1 7.0s linear infinite 2.0s; }
+  .p4 { fill:#bb44ff; animation: rise2 5.5s linear infinite 0.5s; }
+  .p5 { fill:#dd88ff; animation: rise1 4.5s linear infinite 3.0s; }
+  .p6 { fill:#9933ff; animation: rise2 6.5s linear infinite 1.5s; }
+  .scan1 { animation: scanGlitch 5s step-end infinite 2.0s; }
+  .scan2 { animation: scanGlitch 5s step-end infinite 2.1s; }
+  .lbl { fill:#8822cc; opacity:0.5; font-family:'Courier New',monospace; font-size:11px; letter-spacing:4px; }
+  @keyframes float {
+    0%,100%{transform:translateY(0px);}
+    50%    {transform:translateY(-14px);}
+  }
+  @keyframes auraPulse {
+    0%,100%{opacity:0.5; transform:scale(1);}
+    50%    {opacity:0.9; transform:scale(1.12);}
+  }
+  @keyframes eyeFlare {
+    0%,100%{opacity:0.2; transform:scale(1);}
+    50%    {opacity:0.8; transform:scale(1.3);}
+  }
+  @keyframes omniPulse {
+    0%,100%{opacity:0.4;} 50%{opacity:1;}
+  }
+  @keyframes shimmer {
+    0%,100%{opacity:0;} 30%,70%{opacity:0;} 45%{opacity:0.35;} 55%{opacity:0.25;}
+  }
+  @keyframes rise1 {
+    0%  {opacity:0; transform:translate(0,0);}
+    10% {opacity:0.7;}
+    70% {opacity:0.4;}
+    100%{opacity:0; transform:translate(-12px,-155px);}
+  }
+  @keyframes rise2 {
+    0%  {opacity:0; transform:translate(0,0);}
+    10% {opacity:0.6;}
+    70% {opacity:0.3;}
+    100%{opacity:0; transform:translate(14px,-155px);}
+  }
+  @keyframes scanGlitch {
+    0%,85%,100%{opacity:0;} 90%{opacity:0.25;} 95%{opacity:0;}
+  }
+</style>
+<rect width="860" height="160" fill="#08001a"/>
+<!-- deep ambient -->
+<ellipse cx="430" cy="80" rx="280" ry="80" fill="#3300aa" opacity="0.05"/>
+
+<!-- ghost group floats -->
+<g class="ghost">
+  <!-- outer aura -->
+  <ellipse class="aura" cx="430" cy="82" rx="68" ry="76" fill="#7700cc" opacity="0.18"/>
+  <!-- body -->
+  <ellipse cx="430" cy="72" rx="44" ry="52" fill="#e8e0ff" opacity="0.88"/>
+  <!-- wrapping stripes -->
+  <line x1="400" y1="48" x2="460" y2="48" stroke="#6622aa" stroke-width="1.8" opacity="0.55"/>
+  <line x1="396" y1="60" x2="464" y2="60" stroke="#6622aa" stroke-width="1.5" opacity="0.5"/>
+  <line x1="395" y1="72" x2="465" y2="72" stroke="#6622aa" stroke-width="1.5" opacity="0.5"/>
+  <line x1="397" y1="84" x2="463" y2="84" stroke="#6622aa" stroke-width="1.5" opacity="0.45"/>
+  <line x1="401" y1="96" x2="459" y2="96" stroke="#6622aa" stroke-width="1.2" opacity="0.4"/>
+  <!-- eye socket -->
+  <ellipse cx="430" cy="62" rx="19" ry="14" fill="#100020"/>
+  <!-- iris -->
+  <ellipse cx="430" cy="62" rx="14" ry="10" fill="#cc00ff"/>
+  <ellipse cx="430" cy="62" rx="9"  ry="7"  fill="#880099"/>
+  <!-- pupil -->
+  <ellipse cx="430" cy="62" rx="6"  ry="6"  fill="#0a0015"/>
+  <!-- specular -->
+  <ellipse cx="425" cy="58" rx="3"  ry="2"  fill="#ff88ff" opacity="0.7"/>
+  <!-- eye glow ring -->
+  <ellipse class="eyePulse" cx="430" cy="62" rx="20" ry="15" fill="none" stroke="#ee00ff" stroke-width="1.2" opacity="0.4"/>
+  <!-- intangibility shimmers -->
+  <rect class="shimmer1" x="386" y="55" width="88" height="3" rx="1.5" fill="#cc88ff"/>
+  <rect class="shimmer2" x="386" y="80" width="88" height="3" rx="1.5" fill="#cc88ff"/>
+  <!-- wispy tail -->
+  <path d="M386,118 C390,138 400,128 408,142 C416,130 422,148 430,134 C438,148 444,130 452,142 C460,128 470,138 474,118" fill="#e8e0ff" opacity="0.75"/>
+  <path d="M390,118 C394,134 403,126 410,136 C418,127 424,142 430,128 C436,142 442,127 450,136 C457,126 466,134 470,118" fill="#c8b8f0" opacity="0.38"/>
+  <!-- omnitrix -->
+  <circle cx="430" cy="104" r="9" fill="#0a0a0a"/>
+  <circle cx="430" cy="104" r="7" fill="#00cc33"/>
+  <circle cx="430" cy="104" r="4" fill="#0a0a0a"/>
+  <circle class="omni" cx="430" cy="104" r="2" fill="#00ff44"/>
+  <!-- claws left -->
+  <path d="M386,80 Q360,72 342,80" stroke="#e8e0ff" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <line x1="342" y1="80" x2="326" y2="72" stroke="#e8e0ff" stroke-width="2" stroke-linecap="round"/>
+  <line x1="340" y1="86" x2="322" y2="83" stroke="#e8e0ff" stroke-width="2" stroke-linecap="round"/>
+  <line x1="338" y1="92" x2="322" y2="93" stroke="#e8e0ff" stroke-width="2" stroke-linecap="round"/>
+  <!-- claws right -->
+  <path d="M474,80 Q500,72 518,80" stroke="#e8e0ff" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <line x1="518" y1="80" x2="534" y2="72" stroke="#e8e0ff" stroke-width="2" stroke-linecap="round"/>
+  <line x1="520" y1="86" x2="538" y2="83" stroke="#e8e0ff" stroke-width="2" stroke-linecap="round"/>
+  <line x1="522" y1="92" x2="538" y2="93" stroke="#e8e0ff" stroke-width="2" stroke-linecap="round"/>
+</g>
+
+<!-- particles -->
+<circle class="p1" cx="120" cy="155" r="2"/><circle class="p2" cx="720" cy="155" r="1.5"/>
+<circle class="p3" cx="240" cy="155" r="2"/><circle class="p4" cx="620" cy="155" r="1.5"/>
+<circle class="p5" cx="80"  cy="155" r="1"/><circle class="p6" cx="780" cy="155" r="1.5"/>
+
+<!-- scanline glitch -->
+<rect class="scan1" x="0" y="74" width="860" height="1" fill="#cc00ff"/>
+<rect class="scan2" x="0" y="82" width="860" height="1" fill="#cc00ff"/>
+
+<text class="lbl" x="430" y="152" text-anchor="middle">GHOSTFREAK  ·  ECTONURITE  ·  PHASE: INTANGIBLE</text>
+</svg>

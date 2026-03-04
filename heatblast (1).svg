@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 160" width="860" height="160">
+<style>
+  .flame { transform-box: fill-box; transform-origin: bottom center; }
+  .f1  { fill: #ff6600; animation: flicker1 2.8s ease-in-out infinite 0.0s; }
+  .f2  { fill: #ff4400; animation: flicker2 3.2s ease-in-out infinite 0.4s; }
+  .f3  { fill: #ff5500; animation: flicker1 2.6s ease-in-out infinite 0.8s; }
+  .f4  { fill: #ff3300; animation: flicker3 3.4s ease-in-out infinite 1.2s; }
+  .f5  { fill: #ff6600; animation: flicker2 2.9s ease-in-out infinite 0.2s; }
+  .f6  { fill: #ff5500; animation: flicker1 3.1s ease-in-out infinite 0.6s; }
+  .f7  { fill: #ff4400; animation: flicker3 2.7s ease-in-out infinite 1.0s; }
+  .f8  { fill: #ff5500; animation: flicker2 3.3s ease-in-out infinite 0.35s; }
+  .f9  { fill: #ff4400; animation: flicker1 2.85s ease-in-out infinite 0.75s; }
+  .f10 { fill: #ff6600; animation: flicker3 3.0s ease-in-out infinite 1.4s; }
+  .f11 { fill: #ff5500; animation: flicker2 2.75s ease-in-out infinite 0.55s; }
+  .f12 { fill: #ff6600; animation: flicker1 3.2s ease-in-out infinite 0.9s; }
+  .c1  { fill: #ffcc00; opacity:0.55; animation: flicker1 2.8s ease-in-out infinite 0.0s; }
+  .c2  { fill: #ffee00; opacity:0.55; animation: flicker2 3.2s ease-in-out infinite 0.4s; }
+  .c3  { fill: #ffe000; opacity:0.55; animation: flicker1 2.6s ease-in-out infinite 0.8s; }
+  .c4  { fill: #ffcc00; opacity:0.55; animation: flicker3 3.4s ease-in-out infinite 1.2s; }
+  .c5  { fill: #ffee00; opacity:0.55; animation: flicker2 2.9s ease-in-out infinite 0.2s; }
+  .c6  { fill: #fff0a0; opacity:0.55; animation: flicker1 3.1s ease-in-out infinite 0.6s; }
+  .c7  { fill: #fff5b0; opacity:0.55; animation: flicker3 2.7s ease-in-out infinite 1.0s; }
+  .c8  { fill: #ffee00; opacity:0.55; animation: flicker2 3.3s ease-in-out infinite 0.35s; }
+  .c9  { fill: #ffcc00; opacity:0.55; animation: flicker1 2.85s ease-in-out infinite 0.75s; }
+  .c10 { fill: #ffee00; opacity:0.55; animation: flicker3 3.0s ease-in-out infinite 1.4s; }
+  .c11 { fill: #fff0a0; opacity:0.55; animation: flicker2 2.75s ease-in-out infinite 0.55s; }
+  .c12 { fill: #ffcc00; opacity:0.55; animation: flicker1 3.2s ease-in-out infinite 0.9s; }
+  .e1 { fill:#ffcc00; animation: ember1 3.5s linear infinite 0.0s; }
+  .e2 { fill:#ff8800; animation: ember2 4.0s linear infinite 0.6s; }
+  .e3 { fill:#ffee00; animation: ember1 3.2s linear infinite 1.2s; }
+  .e4 { fill:#ff9900; animation: ember2 3.8s linear infinite 0.3s; }
+  .e5 { fill:#ffcc00; animation: ember1 4.2s linear infinite 1.8s; }
+  .e6 { fill:#ff8800; animation: ember2 3.6s linear infinite 2.2s; }
+  .lbl { fill:#ff6600; opacity:0.5; font-family:'Courier New',monospace; font-size:11px; letter-spacing:4px; }
+  @keyframes flicker1 {
+    0%  {opacity:0; transform:translateY(8px) scaleX(1);}
+    15% {opacity:0.7;transform:translateY(-4px) scaleX(0.96);}
+    40% {opacity:0.9;transform:translateY(2px) scaleX(1.02);}
+    60% {opacity:0.6;transform:translateY(-6px) scaleX(0.97);}
+    80% {opacity:0.8;transform:translateY(4px) scaleX(1.01);}
+    100%{opacity:0; transform:translateY(8px) scaleX(1);}
+  }
+  @keyframes flicker2 {
+    0%  {opacity:0; transform:translateY(6px) scaleX(1);}
+    20% {opacity:0.8;transform:translateY(-6px) scaleX(0.95);}
+    45% {opacity:0.6;transform:translateY(4px) scaleX(1.03);}
+    65% {opacity:0.9;transform:translateY(-4px) scaleX(0.98);}
+    85% {opacity:0.5;transform:translateY(8px) scaleX(1.01);}
+    100%{opacity:0; transform:translateY(6px) scaleX(1);}
+  }
+  @keyframes flicker3 {
+    0%  {opacity:0; transform:translateY(10px) scaleX(1);}
+    10% {opacity:0.9;transform:translateY(-8px) scaleX(0.94);}
+    35% {opacity:0.7;transform:translateY(6px) scaleX(1.04);}
+    55% {opacity:0.85;transform:translateY(-2px) scaleX(0.96);}
+    75% {opacity:0.6;transform:translateY(4px) scaleX(1.02);}
+    100%{opacity:0; transform:translateY(10px) scaleX(1);}
+  }
+  @keyframes ember1 {
+    0%  {opacity:0; transform:translate(0,0);}
+    10% {opacity:0.9;}
+    70% {opacity:0.6;}
+    100%{opacity:0; transform:translate(-12px,-130px);}
+  }
+  @keyframes ember2 {
+    0%  {opacity:0; transform:translate(0,0);}
+    10% {opacity:0.8;}
+    70% {opacity:0.4;}
+    100%{opacity:0; transform:translate(14px,-120px);}
+  }
+</style>
+<rect width="860" height="160" fill="#0d0200"/>
+<rect x="0" y="140" width="860" height="20" fill="#ff2200" opacity="0.06"/>
+<!-- flame 1 --><path class="flame f1" d="M40,158 C38,128 30,96 35,62 C38,46 44,28 42,8 C48,26 53,52 51,74 C57,52 61,30 59,8 C65,28 63,56 67,80 C72,58 74,36 70,14 C77,34 75,62 72,88 C76,66 80,42 78,20 C83,40 81,70 78,94 C80,116 78,138 75,158Z"/>
+<path class="flame c1" d="M44,158 C42,132 37,104 41,74 C43,58 48,40 46,18"/>
+<!-- flame 2 --><path class="flame f2" d="M105,158 C103,126 96,92 100,58 C103,40 110,20 107,0 C113,18 118,46 116,68 C122,46 126,22 124,0 C129,20 127,50 131,74 C136,52 138,28 134,6 C141,26 139,56 137,82 C141,60 146,36 143,14 C148,34 146,64 143,90 C145,112 143,136 140,158Z"/>
+<path class="flame c2" d="M109,158 C107,130 102,100 106,68 C108,52 113,34 111,12"/>
+<!-- flame 3 --><path class="flame f3" d="M175,158 C173,122 164,84 169,46 C172,26 180,4 177,-16 C183,4 189,34 187,58 C193,34 197,10 195,-12 C200,10 198,42 202,68 C207,44 210,18 206,-4 C213,18 210,52 208,78 C212,54 217,28 214,6 C220,26 217,60 214,88 C216,110 214,136 211,158Z"/>
+<path class="flame c3" d="M179,158 C177,126 171,94 175,62 C178,44 184,26 182,4"/>
+<!-- flame 4 --><path class="flame f4" d="M243,158 C241,128 233,92 237,56 C240,38 248,18 245,-2 C251,16 256,44 254,66 C260,44 264,20 262,-2 C267,18 265,50 269,74 C274,52 276,28 272,6 C279,26 277,58 275,84 C279,62 284,38 281,16 C286,36 284,68 281,94 C283,116 281,140 278,158Z"/>
+<path class="flame c4" d="M247,158 C245,130 240,100 244,70 C246,54 251,36 249,14"/>
+<!-- flame 5 --><path class="flame f5" d="M313,158 C311,124 302,86 307,48 C310,30 318,10 315,-10 C321,10 326,38 324,62 C330,38 334,14 332,-8 C337,14 335,46 339,70 C344,48 347,22 343,0 C350,22 347,56 345,82 C349,58 354,32 351,10 C357,30 354,66 351,92 C353,114 351,138 348,158Z"/>
+<path class="flame c5" d="M317,158 C315,128 309,96 313,64 C316,46 322,28 320,6"/>
+<!-- flame 6 --><path class="flame f6" d="M383,158 C381,122 372,82 377,44 C380,24 388,2 385,-18 C391,2 397,32 395,56 C401,32 405,8 403,-14 C408,8 406,40 410,66 C415,42 418,16 414,-6 C421,16 418,50 416,76 C420,52 425,26 422,4 C428,24 425,60 422,88 C424,110 422,136 419,158Z"/>
+<path class="flame c6" d="M387,158 C385,126 379,92 383,60 C386,42 392,22 390,0"/>
+<!-- flame 7 tall center --><path class="flame f7" d="M448,158 C446,116 436,72 441,32 C444,10 453,-14 450,-34 C456,-14 462,18 460,44 C466,18 470,-6 468,-28 C473,-6 471,28 475,56 C480,30 483,4 479,-20 C486,4 483,40 481,68 C485,44 490,16 487,-6 C493,16 490,52 487,82 C489,106 487,134 484,158Z"/>
+<path class="flame c7" d="M452,158 C450,120 443,80 447,48 C450,28 457,6 455,-16"/>
+<!-- flame 8 --><path class="flame f8" d="M505,158 C503,126 495,90 499,54 C502,36 510,16 507,-4 C513,14 518,42 516,66 C522,44 526,20 524,-2 C529,18 527,50 531,74 C536,52 538,28 534,6 C541,26 539,58 537,84 C541,62 546,38 543,16 C548,36 546,68 543,94 C545,116 543,140 540,158Z"/>
+<path class="flame c8" d="M509,158 C507,130 502,100 506,68 C508,52 513,34 511,12"/>
+<!-- flame 9 --><path class="flame f9" d="M575,158 C573,126 565,90 569,56 C572,38 580,18 577,-2 C583,16 588,44 586,68 C592,46 596,22 594,-2 C599,18 597,50 601,74 C606,52 608,28 604,6 C611,26 609,58 607,84 C611,62 616,38 613,16 C618,36 616,68 613,94 C615,116 613,140 610,158Z"/>
+<path class="flame c9" d="M579,158 C577,130 572,100 576,68 C578,52 583,34 581,12"/>
+<!-- flame 10 --><path class="flame f10" d="M641,158 C639,126 631,90 635,56 C638,38 646,18 643,-2 C649,16 654,44 652,68 C658,46 662,22 660,-2 C665,18 663,50 667,74 C672,52 674,28 670,6 C677,26 675,58 673,84 C677,62 682,38 679,16 C684,36 682,68 679,94 C681,116 679,140 676,158Z"/>
+<path class="flame c10" d="M645,158 C643,130 638,100 642,68 C644,52 649,34 647,12"/>
+<!-- flame 11 --><path class="flame f11" d="M709,158 C707,124 699,88 703,52 C706,34 714,14 711,-6 C717,12 722,40 720,64 C726,42 730,18 728,-4 C733,16 731,48 735,72 C740,50 742,26 738,4 C745,24 743,56 741,82 C745,60 750,36 747,14 C752,34 750,66 747,92 C749,114 747,138 744,158Z"/>
+<path class="flame c11" d="M713,158 C711,128 706,98 710,66 C712,50 717,32 715,10"/>
+<!-- flame 12 --><path class="flame f12" d="M777,158 C775,128 767,92 771,58 C774,40 782,20 779,0 C785,18 790,46 788,70 C794,48 798,24 796,0 C801,20 799,52 803,76 C808,54 810,30 806,8 C813,28 811,60 809,86 C813,64 818,40 815,18 C820,38 818,70 815,96 C817,118 815,142 812,158Z"/>
+<path class="flame c12" d="M781,158 C779,130 774,100 778,70 C780,54 785,36 783,14"/>
+<!-- embers -->
+<circle class="e1" cx="130" cy="140" r="1.5"/><circle class="e2" cx="300" cy="145" r="1"/>
+<circle class="e3" cx="500" cy="138" r="1.5"/><circle class="e4" cx="700" cy="142" r="1"/>
+<circle class="e5" cx="220" cy="148" r="1.2"/><circle class="e6" cx="620" cy="144" r="1"/>
+<text class="lbl" x="430" y="150" text-anchor="middle">HEATBLAST  ·  PYRONITE  ·  TEMPERATURE: 1,000°C</text>
+</svg>
