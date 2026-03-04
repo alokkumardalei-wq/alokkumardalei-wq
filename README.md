@@ -2,15 +2,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1a0a,50:0d4a0d,100:00ff41&height=200&section=header&text=Ben%2010%3A%20Dev%20Force&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=alokkumardalei-wq&descSize=20&descAlignY=58&descColor=39ff14" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1500&color=39FF14&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Alok+Kumar+Dalei+%E2%8C%9A;Student+%7C+Developer+%7C+Dreamer;It's+Hero+Time!+%F0%9F%94%B4;Omnitrix+Activated+%E2%80%94+Going+Ultimate!+%F0%9F%9F%A2" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1500&color=39FF14&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Alok+Kumar+Dalei+%E2%8C%9A;Student+%7C+Developer+%7C+Dreamer;It's+Hero+Time!+%F0%9F%94%B4;Omnitrix+Activated+%E2%80%94+Going+Ultimate!+%F0%9F%9F%A2;Heatblast+Mode%3A+ON+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
+
+<!-- 🔥 HEATBLAST FIRE GIF flanking the quote 🔥 -->
+<img src="https://media.giphy.com/media/W4NMHRUlMBiRi/giphy.gif" width="140" alt="Heatblast Fire Left"/>
+&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/W4NMHRUlMBiRi/giphy.gif" width="140" alt="Heatblast Fire Right"/>
 
 > *"No matter what, I never give up. That's just what heroes do."* — **Ben Tennyson**
 
 <br/>
 
-<!-- Omnitrix dial spinning animation -->
+<!-- Omnitrix Energy Snake -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Omnitrix Energy Snake"/>
 
 <br/>
@@ -28,7 +33,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 I'm a passionate student developer who transforms problems into solutions — just like Ben transforms with the Omnitrix. I've got **10 alien forms** of tech skills and an **infinite playlist** of curiosity. Always evolving, always going **Ultimate**.
 
@@ -42,11 +47,46 @@ I'm a passionate student developer who transforms problems into solutions — ju
 
 ---
 
+## 🔥 Alien Roster — Active Transformations
+
+<div align="center">
+
+| Alien | Power | Tech Equivalent |
+|-------|-------|-----------------|
+| 🔥 **Heatblast** | Fire & Heat Manipulation | Ignites every new project from scratch |
+| ⚡ **XLR8** | Superhuman Speed | Blazing fast Python & Go development |
+| 💪 **Four Arms** | Immense Strength | Raw power in HTML, CSS, JS, Java |
+| 🔧 **Upgrade** | Technology Merging | Adapts to any tool or tech stack |
+| 🌿 **Wildvine** | Growth & Regeneration | Constantly learning & growing |
+| 🧠 **Grey Matter** | Super Intelligence | Algorithm design & problem solving |
+
+<br/>
+
+<!-- 🔥 HEATBLAST THROWS FIRE — three fire GIFs in a row 🔥 -->
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180" alt="Heatblast Fire Throw 1"/>
+&nbsp;
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180" alt="Fire Energy Burst"/>
+&nbsp;
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180" alt="Heatblast Fire Throw 2"/>
+
+**🔥 Heatblast obliterates every bug in the codebase 🔥**
+
+<br/>
+
+<!-- ⚡ XLR8 SPEED DASH ⚡ -->
+<img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="380" alt="XLR8 Speed Dash"/>
+
+**⚡ XLR8 — coding so fast the compiler can't keep up ⚡**
+
+</div>
+
+---
+
 ## 🔴 Omnitrix DNA — Tech Arsenal
 
 <div align="center">
 
-### 🟢 Four Arms — Core Strength
+### 💪 Four Arms — Core Strength
 <img src="https://skillicons.dev/icons?i=html,css,js,java&theme=dark" />
 
 ### ⚡ XLR8 — Speed Learning
@@ -84,10 +124,12 @@ const alok = {
     
     // Ben's Alien Roster mapped to skills
     alienRoster: {
-        fourArms:  "Raw coding strength — HTML/CSS/JS",
-        xlr8:      "Blazing fast with Python & Go",
-        upgrade:   "Merges with any tech stack",
-        heatblast: "Ignites every new project",
+        heatblast: "🔥 Ignites every new project — scorches every bug",
+        xlr8:      "⚡ Blazing fast with Python & Go",
+        fourArms:  "💪 Raw coding strength — HTML/CSS/JS/Java",
+        upgrade:   "🔧 Merges with any tech stack",
+        greyMatter:"🧠 DSA & Algorithm mastery",
+        wildvine:  "🌿 Always growing, always learning",
     },
 
     status: "Omnitrix Unlocked 🔓 | Going Ultimate 🔥"
@@ -107,6 +149,13 @@ const alok = {
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokkumardalei-wq&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a1a0a&title_color=39ff14&text_color=ccffcc&border_radius=15" width="40%" />
+
+<br/>
+
+<!-- POWER SURGE / ENERGY RISING ANIMATION -->
+<img src="https://media.giphy.com/media/l4FGGafcOHmrlQxG0/giphy.gif" width="480" alt="Power Level Rising"/>
+
+*📊 Omnitrix power level: MAXIMUM OUTPUT*
 
 </div>
 
@@ -129,6 +178,11 @@ const alok = {
 *"Being a hero isn't about the power you have — it's about what you do with it."*
 
 <br/>
+
+<!-- SPINNING DIAL / ENERGY SWIRL -->
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="110" alt="Omnitrix Dial Spinning"/>
+
+<br/><br/>
 
 <a href="https://github.com/alokkumardalei-wq">
   <img src="https://img.shields.io/badge/GitHub-Omnitrix%20Scan-00cc00?style=for-the-badge&logo=github&logoColor=white&labelColor=0a1a0a" />
@@ -160,6 +214,15 @@ const alok = {
 
 > *"It's Hero Time."* — on every `git push`, always ⌚
 
+<br/>
+
+<!-- FINAL FIRE TRIUMVIRATE -->
+<img src="https://media.giphy.com/media/W4NMHRUlMBiRi/giphy.gif" width="110" alt="Fire L"/>
+&nbsp;
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" alt="Fire C"/>
+&nbsp;
+<img src="https://media.giphy.com/media/W4NMHRUlMBiRi/giphy.gif" width="110" alt="Fire R"/>
+
 </div>
 
 ---
@@ -178,6 +241,11 @@ const alok = {
 
 </div>
 
+
+
+
+
+ 
 
 
 
