@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1a0a,50:0d4a0d,100:00ff41&height=200&section=header&text=Ben%2010%3A%20Dev%20Force&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=alokkumardalei-wq&descSize=20&descAlignY=58&descColor=39ff14" width="100%"/>
@@ -196,11 +197,27 @@ const alok = {
 
 ---
 
-## ⌚ Omnitrix Energy Flow — Activity
+## 👻 Ghostfreak Haunts the Heatmap — Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alokkumardalei-wq&custom_title=Omnitrix%20Energy%20Flow&bg_color=0a1a0a&color=39ff14&line=00cc00&point=ffffff&area=true&hide_border=true" width="95%"/>
+<!-- Ghostfreak eye reveal — creeping in before the graph -->
+<img src="https://media1.tenor.com/m/f-Kbg8VUo4oAAAAd/ben10-ghostfreak.gif" width="220" alt="Ghostfreak Eye"/>
+
+*👻 Ghostfreak phases through your commits... watching every push...*
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alokkumardalei-wq&custom_title=Ghostfreak%20Haunting%20Your%20Commits&bg_color=0a0a12&color=b366ff&line=7700ff&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+<br/>
+
+<!-- Ghostfreak laughing after haunting the graph + standing at the door -->
+<img src="https://media1.tenor.com/m/bBiRLp6ouqwAAAAd/ghostfreak-laugh.gif" width="260" alt="Ghostfreak Laugh"/>
+&nbsp;&nbsp;
+<img src="https://media1.tenor.com/m/gmcpifVXf5AAAAAd/ghostfreak-ben10.gif" width="260" alt="Ghostfreak Door"/>
+
+*👻 "Your activity graph belongs to me now." — Ghostfreak, probably 👻*
 
 </div>
 
@@ -240,9 +257,6 @@ const alok = {
 **💚 The Ultimate Dev — Unlocked and Unstoppable 💚**
 
 </div>
-
-
-
 
 
     
