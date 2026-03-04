@@ -46,6 +46,39 @@ I'm a passionate student developer who transforms problems into solutions — ju
 
 ---
 
+## 🤝 Plumber Signal — Let's Connect
+
+<div align="center">
+
+*"Being a hero isn't about the power you have — it's about what you do with it."*
+
+<br/>
+
+<!-- HEATBLAST standing pose — flanking connect section -->
+<img src="https://media1.tenor.com/m/slAcBFGhp2oAAAAd/ben10-heatblast.gif" width="130" alt="Heatblast Standing"/>
+
+<br/><br/>
+
+<a href="https://github.com/alokkumardalei-wq">
+  <img src="https://img.shields.io/badge/GitHub-Omnitrix%20Scan-00cc00?style=for-the-badge&logo=github&logoColor=white&labelColor=0a1a0a" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/alok-kumar-dalei/">
+  <img src="https://img.shields.io/badge/LinkedIn-Plumber%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a1a0a" />
+</a>
+&nbsp;
+<a href="https://x.com/dalei5383">
+  <img src="https://img.shields.io/badge/Twitter-Hero%20Signal-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0a1a0a" />
+</a>
+&nbsp;
+<a href="mailto:alokkumardalei2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Omnitrix%20Comm-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a1a0a" />
+</a>
+
+</div>
+
+---
+
 ## 🔥 Alien Roster — Active Transformations
 
 <div align="center">
@@ -173,39 +206,6 @@ const alok = {
 
 ---
 
-## 🤝 Plumber Signal — Let's Connect
-
-<div align="center">
-
-*"Being a hero isn't about the power you have — it's about what you do with it."*
-
-<br/>
-
-<!-- HEATBLAST standing pose — flanking connect section -->
-<img src="https://media1.tenor.com/m/slAcBFGhp2oAAAAd/ben10-heatblast.gif" width="130" alt="Heatblast Standing"/>
-
-<br/><br/>
-
-<a href="https://github.com/alokkumardalei-wq">
-  <img src="https://img.shields.io/badge/GitHub-Omnitrix%20Scan-00cc00?style=for-the-badge&logo=github&logoColor=white&labelColor=0a1a0a" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/alok-kumar-dalei/">
-  <img src="https://img.shields.io/badge/LinkedIn-Plumber%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a1a0a" />
-</a>
-&nbsp;
-<a href="https://x.com/dalei5383">
-  <img src="https://img.shields.io/badge/Twitter-Hero%20Signal-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0a1a0a" />
-</a>
-&nbsp;
-<a href="mailto:alokkumardalei2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Omnitrix%20Comm-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a1a0a" />
-</a>
-
-</div>
-
----
-
 ## 💭 Ben's Dev Wisdom
 
 <div align="center">
@@ -240,3 +240,10 @@ const alok = {
 **💚 The Ultimate Dev — Unlocked and Unstoppable 💚**
 
 </div>
+
+
+
+
+
+    
+    
