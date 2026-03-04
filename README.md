@@ -88,7 +88,7 @@ I'm a passionate student developer who transforms problems into solutions — ju
 <br/>
 
 <!-- 🔥 HEATBLAST THROWING FIREBALL — custom SVG animation -->
-<img src="heatblast (1).svg"alt="Heatblast Fireball"/>
+<img src="heatblast (1).svg" alt="Heatblast Fireball"/>
 
 <br/>
 
