@@ -6,16 +6,15 @@
 
 <br/>
 
-<!-- 🔥 HEATBLAST FIRE GIF flanking the quote 🔥 -->
-<img src="https://media.giphy.com/media/W4NMHRUlMBiRi/giphy.gif" width="140" alt="Heatblast Fire Left"/>
-&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/W4NMHRUlMBiRi/giphy.gif" width="140" alt="Heatblast Fire Right"/>
+<!-- 🔥 HEATBLAST — actual Ben 10 alien GIF flanking the quote 🔥 -->
+<img src="https://media1.tenor.com/m/eyNGev1_F38AAAAd/ben-10-heatblast.gif" width="160" alt="Heatblast"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://media1.tenor.com/m/mjKjUbfBVRcAAAAd/ben-10-heatblast.gif" width="160" alt="Heatblast Fist"/>
 
 > *"No matter what, I never give up. That's just what heroes do."* — **Ben Tennyson**
 
 <br/>
 
-<!-- Omnitrix Energy Snake -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Omnitrix Energy Snake"/>
 
 <br/>
@@ -57,26 +56,36 @@ I'm a passionate student developer who transforms problems into solutions — ju
 | ⚡ **XLR8** | Superhuman Speed | Blazing fast Python & Go development |
 | 💪 **Four Arms** | Immense Strength | Raw power in HTML, CSS, JS, Java |
 | 🔧 **Upgrade** | Technology Merging | Adapts to any tool or tech stack |
-| 🌿 **Wildvine** | Growth & Regeneration | Constantly learning & growing |
+| 💎 **Diamondhead** | Crystal Projection | Unbreakable clean architecture |
 | 🧠 **Grey Matter** | Super Intelligence | Algorithm design & problem solving |
 
 <br/>
 
-<!-- 🔥 HEATBLAST THROWS FIRE — three fire GIFs in a row 🔥 -->
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180" alt="Heatblast Fire Throw 1"/>
-&nbsp;
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180" alt="Fire Energy Burst"/>
-&nbsp;
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180" alt="Heatblast Fire Throw 2"/>
+<!-- HEATBLAST — full transformation sequence -->
+<img src="https://media1.tenor.com/m/B9mzfO8cqyYAAAAd/ben10-heatblast.gif" width="380" alt="Heatblast Transformation"/>
 
-**🔥 Heatblast obliterates every bug in the codebase 🔥**
+**🔥 Heatblast activates — obliterating every bug in the codebase 🔥**
 
 <br/>
 
-<!-- ⚡ XLR8 SPEED DASH ⚡ -->
-<img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="380" alt="XLR8 Speed Dash"/>
+<!-- XLR8 — actual alien GIF -->
+<img src="https://media1.tenor.com/m/9y0WVJan7nAAAAAd/ben-10-xlr8-ben-10.gif" width="380" alt="XLR8"/>
 
 **⚡ XLR8 — coding so fast the compiler can't keep up ⚡**
+
+<br/>
+
+<!-- FOUR ARMS — actual alien GIF -->
+<img src="https://media1.tenor.com/m/M4imcKEXTokAAAAd/ben10-four-arms.gif" width="380" alt="Four Arms"/>
+
+**💪 Four Arms — smashing through every problem with raw strength 💪**
+
+<br/>
+
+<!-- DIAMONDHEAD / MULTI-ALIEN EDIT -->
+<img src="https://media1.tenor.com/m/YmmhaXfk3MEAAAAd/ben10-edit.gif" width="380" alt="Ben 10 Aliens Edit"/>
+
+**💎 Diamondhead — crystal-clear, unbreakable code architecture 💎**
 
 </div>
 
@@ -124,12 +133,12 @@ const alok = {
     
     // Ben's Alien Roster mapped to skills
     alienRoster: {
-        heatblast: "🔥 Ignites every new project — scorches every bug",
-        xlr8:      "⚡ Blazing fast with Python & Go",
-        fourArms:  "💪 Raw coding strength — HTML/CSS/JS/Java",
-        upgrade:   "🔧 Merges with any tech stack",
-        greyMatter:"🧠 DSA & Algorithm mastery",
-        wildvine:  "🌿 Always growing, always learning",
+        heatblast:    "🔥 Ignites every new project — scorches every bug",
+        xlr8:         "⚡ Blazing fast with Python & Go",
+        fourArms:     "💪 Raw coding strength — HTML/CSS/JS/Java",
+        upgrade:      "🔧 Merges with any tech stack",
+        diamondhead:  "💎 Crystal-clear, unbreakable architecture",
+        greyMatter:   "🧠 DSA & Algorithm mastery",
     },
 
     status: "Omnitrix Unlocked 🔓 | Going Ultimate 🔥"
@@ -149,13 +158,6 @@ const alok = {
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokkumardalei-wq&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a1a0a&title_color=39ff14&text_color=ccffcc&border_radius=15" width="40%" />
-
-<br/>
-
-<!-- POWER SURGE / ENERGY RISING ANIMATION -->
-<img src="https://media.giphy.com/media/l4FGGafcOHmrlQxG0/giphy.gif" width="480" alt="Power Level Rising"/>
-
-*📊 Omnitrix power level: MAXIMUM OUTPUT*
 
 </div>
 
@@ -179,8 +181,8 @@ const alok = {
 
 <br/>
 
-<!-- SPINNING DIAL / ENERGY SWIRL -->
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="110" alt="Omnitrix Dial Spinning"/>
+<!-- HEATBLAST standing pose — flanking connect section -->
+<img src="https://media1.tenor.com/m/slAcBFGhp2oAAAAd/ben10-heatblast.gif" width="130" alt="Heatblast Standing"/>
 
 <br/><br/>
 
@@ -216,12 +218,10 @@ const alok = {
 
 <br/>
 
-<!-- FINAL FIRE TRIUMVIRATE -->
-<img src="https://media.giphy.com/media/W4NMHRUlMBiRi/giphy.gif" width="110" alt="Fire L"/>
-&nbsp;
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" alt="Fire C"/>
-&nbsp;
-<img src="https://media.giphy.com/media/W4NMHRUlMBiRi/giphy.gif" width="110" alt="Fire R"/>
+<!-- FINAL — Heatblast transformation + XLR8 side by side -->
+<img src="https://media1.tenor.com/m/mjKjUbfBVRcAAAAd/ben-10-heatblast.gif" width="200" alt="Heatblast Final"/>
+&nbsp;&nbsp;
+<img src="https://media1.tenor.com/m/9y0WVJan7nAAAAAd/ben-10-xlr8-ben-10.gif" width="200" alt="XLR8 Final"/>
 
 </div>
 
@@ -240,12 +240,3 @@ const alok = {
 **💚 The Ultimate Dev — Unlocked and Unstoppable 💚**
 
 </div>
-
-
-
-
-
- 
-
-
-
