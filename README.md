@@ -7,7 +7,7 @@
 <br/>
 
 <!-- ⌚ OMNITRIX TRANSFORMATION DIAL — custom SVG animation -->
-<img src="https://raw.githubusercontent.com/alokkumardalei-wq/alokkumardalei-wq/main/omnitrix.svg" width="100%" alt="Omnitrix Dial"/>
+<img src="omnitrix (1).svg" alt="Omnitrix Dial"/>
 
 > *"No matter what, I never give up. That's just what heroes do."* — **Ben Tennyson**
 
@@ -88,12 +88,12 @@ I'm a passionate student developer who transforms problems into solutions — ju
 <br/>
 
 <!-- 🔥 HEATBLAST THROWING FIREBALL — custom SVG animation -->
-<img src="https://raw.githubusercontent.com/alokkumardalei-wq/alokkumardalei-wq/main/heatblast.svg" width="100%" alt="Heatblast Fireball"/>
+<img src="heatblast (1).svg"alt="Heatblast Fireball"/>
 
 <br/>
 
 <!-- ⚡ XLR8 SPEED DASH — custom SVG animation -->
-<img src="https://raw.githubusercontent.com/alokkumardalei-wq/alokkumardalei-wq/main/xlr8.svg" width="100%" alt="XLR8 Dash"/>
+<img src="xlr8.svg" alt="XLR8 Dash"/>
 
 </div>
 
@@ -176,7 +176,7 @@ const alok = {
 <div align="center">
 
 <!-- 👻 GHOSTFREAK FLOATING — custom SVG animation -->
-<img src="https://raw.githubusercontent.com/alokkumardalei-wq/alokkumardalei-wq/main/ghostfreak.svg" width="100%" alt="Ghostfreak Haunting"/>
+<img src="ghostfreak (2).svg" alt="Ghostfreak Haunting"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=alokkumardalei-wq&custom_title=Ghostfreak%20Haunting%20Your%20Commits&bg_color=0a0a12&color=b366ff&line=7700ff&point=ffffff&area=true&hide_border=true" width="95%"/>
 
