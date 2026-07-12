@@ -215,9 +215,12 @@ $ omnitrix --status
 🗺️ Contribution Heatmap — Omnitrix DNA Scan
 
 <div align="center">
-<img src="https://ghchart.rshah.org/00cc00/alokkumardalei-wq" alt="Alok's GitHub Contribution Heatmap" width="97%" />
-</div>
+<a href="https://github.com/alokkumardalei-wq?tab=overview&from=2026-01-01&to=2026-12-31">
+  <img src="https://ghchart.rshah.org/00cc00/alokkumardalei-wq" alt="Alok's GitHub Contribution Heatmap — click for live interactive graph" width="97%" />
+</a>
+<sub>👆 Click the heatmap to see exact daily contribution counts on my live GitHub graph</sub>
 
+</div>
 
 > *"No matter what, I never give up. That's just what heroes do."* — **Ben Tennyson**
 
