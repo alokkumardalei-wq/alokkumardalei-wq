@@ -44,6 +44,30 @@
 
 ---
 
+## 🛸 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/alokkumardalei-wq">
+  <img src="https://img.shields.io/badge/GitHub-Omnitrix%20Base-%2300cc00?style=for-the-badge&logo=github&logoColor=white&labelColor=050f05" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/alok-kumar-dalei/">
+  <img src="https://img.shields.io/badge/LinkedIn-Plumber%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050f05" />
+</a>
+&nbsp;
+<a href="https://x.com/dalei5383">
+  <img src="https://img.shields.io/badge/Twitter-Hero%20Signal-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=050f05" />
+</a>
+&nbsp;
+<a href="mailto:alokkumardalei2@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Omnitrix%20Comm-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050f05" />
+</a>
+
+</div>
+
+---
+
 ## ⚡ Full Alien Roster — Complete Tech Arsenal
 
 <div align="center">
@@ -85,30 +109,6 @@
 | 👻 **Ghostfreak** | Invisible async & concurrency | Redis · Queues · goroutines | `███████░░░` |
 | 🌊 **Ripjaws** | Deep data diving | MongoDB · Prisma · GraphQL | `████████░░` |
 | 🛸 **Alien X** | Omnipresent cloud control | AWS · GCP · Terraform | `██████░░░░` |
-
-</div>
-
----
-
-## 🛸 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/alokkumardalei-wq">
-  <img src="https://img.shields.io/badge/GitHub-Omnitrix%20Base-%2300cc00?style=for-the-badge&logo=github&logoColor=white&labelColor=050f05" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/alok-kumar-dalei/">
-  <img src="https://img.shields.io/badge/LinkedIn-Plumber%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050f05" />
-</a>
-&nbsp;
-<a href="https://x.com/dalei5383">
-  <img src="https://img.shields.io/badge/Twitter-Hero%20Signal-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=050f05" />
-</a>
-&nbsp;
-<a href="mailto:alokkumardalei2@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Omnitrix%20Comm-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050f05" />
-</a>
 
 </div>
 
@@ -221,27 +221,7 @@ $ omnitrix --status
 
 ---
 
-## 🛸 Plumber Signal — Connect With Me
-
 <div align="center">
-
-<a href="https://github.com/alokkumardalei-wq">
-  <img src="https://img.shields.io/badge/GitHub-Omnitrix%20Base-%2300cc00?style=for-the-badge&logo=github&logoColor=white&labelColor=050f05" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/alok-kumar-dalei/">
-  <img src="https://img.shields.io/badge/LinkedIn-Plumber%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050f05" />
-</a>
-&nbsp;
-<a href="https://x.com/dalei5383">
-  <img src="https://img.shields.io/badge/Twitter-Hero%20Signal-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=050f05" />
-</a>
-&nbsp;
-<a href="mailto:alokkumardalei2@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Omnitrix%20Comm-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050f05" />
-</a>
-
-<br/><br/>
 
 > *"No matter what, I never give up. That's just what heroes do."* — **Ben Tennyson**
 
@@ -250,8 +230,5 @@ $ omnitrix --status
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,40:003300,100:000000&height=160&section=footer&text=Keep+Transforming.+Never+Stop.&fontSize=30&fontColor=39ff14&animation=twinkling&desc=Omnitrix+Unlocked+%E2%80%94+Unstoppable+%F0%9F%94%B4&descSize=16&descColor=ccffcc&descAlignY=78" width="100%"/>
 
 </div>
-
-
-
 
 
