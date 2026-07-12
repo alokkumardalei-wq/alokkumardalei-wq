@@ -212,7 +212,11 @@ $ omnitrix --status
 ```
 
 ---
+🗺️ Contribution Heatmap — Omnitrix DNA Scan
 
+<div align="center">
+<img src="https://ghchart.rshah.org/00cc00/alokkumardalei-wq" alt="Alok's GitHub Contribution Heatmap" width="97%" />
+</div>
 <div align="center">
 
 > *"No matter what, I never give up. That's just what heroes do."* — **Ben Tennyson**
