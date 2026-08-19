@@ -1,233 +1,27 @@
-<div align="center">
+# 💫 About Me:
+- Building a Go + PostgreSQL service, deployed with Docker Compose<br>- Working through graph and DP problems on LeetCode<br>- Reading *Designing Data-Intensive Applications*<br>- Next: Kafka, Terraform<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:001a00,60:003300,100:00ff41&height=260&section=header&text=ALOK%20KUMAR%20DALEI&fontSize=58&fontColor=00ff41&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Systems%20Thinker%20%E2%80%A2%20Open%20Source%20Contributor&descSize=17&descAlignY=60&descColor=ccffcc" width="100%"/>
 
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alok-kumar-dalei/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/dalei5383) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alokkumardalei2@gmail.com) 
 
-<div align="center">
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=alokkumardalei-wq&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=alokkumardalei-wq&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=alokkumardalei-wq&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=1200&color=39FF14&center=true&vCenter=true&width=1000&lines=⌚+Omnitrix+Activated+%E2%80%94+Going+Ultimate!;Full+Stack+%7C+Backend+%7C+Systems+Engineering+%F0%9F%94%A5;Python+%E2%80%A2+Go+%E2%80%A2+TypeScript+%E2%80%A2+Rust+%E2%80%A2+C%2B%2B;Building+Scalable+Systems%2C+One+Alien+Form+at+a+Time+%F0%9F%9F%A2;docker+run+-it+%E2%80%94rm+alok%2Fultimatrix:latest+%2Fbin%2Fbash" alt="Typing SVG" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/alokkumardalei-wq?style=for-the-badge&logo=github&logoColor=white&color=00cc00&labelColor=0a0a0a)](https://github.com/alokkumardalei-wq)
-&nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/alokkumardalei-wq?style=for-the-badge&logo=github&logoColor=white&color=00cc00&labelColor=0a0a0a)](https://github.com/alokkumardalei-wq)
-&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=alokkumardalei-wq&style=for-the-badge&color=00cc00&label=PROFILE+VIEWS&labelColor=0a0a0a)](https://github.com/alokkumardalei-wq)
-
-</div>
-
-<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alokkumardalei-wq&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=alokkumardalei-wq&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║         ⌚  OMNITRIX SCAN — IDENTITY CONFIRMED               ║
-║                                                              ║
-║   NAME    :  Alok Kumar Dalei                                ║
-║   ROLE    :  Full Stack Engineer & Backend Architect         ║
-║   SCHOOL  :  Vedam School Of Technology                      ║
-║   FOCUS   :  Distributed Systems · DSA · Open Source        ║
-║   STATUS  :  [ ██████████████████████ ] GOING ULTIMATE 🔥    ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 🛸 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/alokkumardalei-wq">
-  <img src="https://img.shields.io/badge/GitHub-Omnitrix%20Base-%2300cc00?style=for-the-badge&logo=github&logoColor=white&labelColor=050f05" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/alok-kumar-dalei/">
-  <img src="https://img.shields.io/badge/LinkedIn-Plumber%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050f05" />
-</a>
-&nbsp;
-<a href="https://x.com/dalei5383">
-  <img src="https://img.shields.io/badge/Twitter-Hero%20Signal-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=050f05" />
-</a>
-&nbsp;
-<a href="mailto:alokkumardalei2@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Omnitrix%20Comm-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050f05" />
-</a>
-
-</div>
-
----
-
-## ⚡ Full Alien Roster — Complete Tech Arsenal
-
-<div align="center">
-
-### 🧬 Languages
-<img src="https://skillicons.dev/icons?i=python,go,typescript,javascript,java,cpp,rust,c&theme=dark&perline=8" />
-
-### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,sass,vite,redux&theme=dark&perline=8" />
-
-### 🔧 Backend & APIs
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,nginx,flask,django,bun&theme=dark&perline=8" />
-
-### 🗄️ Databases & Storage
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,sqlite,supabase,firebase,prisma&theme=dark&perline=8" />
-
-### ☁️ DevOps, Cloud & Infra
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,git,github,githubactions,aws&theme=dark&perline=8" />
-
-### 🛠️ Tools & Environment
-<img src="https://skillicons.dev/icons?i=vscode,neovim,postman,figma,vercel,cloudflare,grafana,prometheus&theme=dark&perline=8" />
-
-</div>
-
----
-
-## 🔴 Alien Form Ability Matrix
-
-<div align="center">
-
-| Alien Form | Ability | Tech Mapped | Mastery |
-|:---:|:---|:---|:---:|
-| 🔥 **Heatblast** | Full-stack project ignition | React · Next.js · Node.js | `████████░░` |
-| ⚡ **XLR8** | Blazing fast execution & scripting | Python · Go · Bash | `█████████░` |
-| 💪 **Four Arms** | Raw systems & low-level power | C · C++ · Rust | `███████░░░` |
-| 🔧 **Upgrade** | Merges & adapts to any stack | Docker · K8s · CI/CD | `████████░░` |
-| 💎 **Diamondhead** | Unbreakable architecture design | System Design · PostgreSQL | `████████░░` |
-| 🧠 **Grey Matter** | Pure logic & algorithm mastery | DSA · LeetCode · Graphs | `█████████░` |
-| 👻 **Ghostfreak** | Invisible async & concurrency | Redis · Queues · goroutines | `███████░░░` |
-| 🌊 **Ripjaws** | Deep data diving | MongoDB · Prisma · GraphQL | `████████░░` |
-| 🛸 **Alien X** | Omnipresent cloud control | AWS · GCP · Terraform | `██████░░░░` |
-
-</div>
-
----
-
-## 🧬 Omnitrix Core — System Config
-
-```typescript
-// ⌚ OMNITRIX vULTIMATE — SYSTEM BOOT
-const alok: UltimateDeveloper = {
-  identity: {
-    name:    "Alok Kumar Dalei",
-    role:    "Full Stack Engineer · Backend Architect",
-    school:  "Vedam School Of Technology",
-    based:   "India 🇮🇳",
-  },
-
-  weapons: {
-    languages:   ["Python", "Go", "TypeScript", "Rust", "C++", "Java"],
-    frontend:    ["React", "Next.js", "TailwindCSS", "Redux", "Vite"],
-    backend:     ["Node.js", "FastAPI", "Express", "gRPC", "GraphQL"],
-    databases:   ["PostgreSQL", "MongoDB", "Redis", "Supabase", "Prisma"],
-    devops:      ["Docker", "Kubernetes", "GitHub Actions", "AWS", "Nginx"],
-    tools:       ["Linux", "Neovim", "Postman", "Figma", "Cloudflare"],
-  },
-
-  currentMissions: [
-    "🏗️  Building production-grade distributed systems",
-    "🧠  Grinding DSA — graphs, DP, segment trees",
-    "🌀  Contributing to open-source infrastructure projects",
-    "🚀  Exploring compiler internals & low-level Rust",
-  ],
-
-  architecture: {
-    preferred:   "Microservices + Event-Driven",
-    philosophy:  "Ship fast, scale smart, document always",
-    debugSpeed:  "XLR8 — before you blink 👁️",
-  },
-
-  omnitrix: {
-    status:     "🟢 UNLOCKED",
-    mode:       "ULTIMATE FORM",
-    dna:        "Full Stack · Systems · Open Source",
-    powerLevel: 9001, // it's over 9000
-  },
-};
-```
-
----
-
-## 📊 Omnitrix Power Readings
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alokkumardalei-wq&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=050f05&title_color=39ff14&icon_color=00cc00&text_color=ccffcc&border_radius=12&custom_title=⚡+Omnitrix+Power+Stats" width="48%" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alokkumardalei-wq&theme=chartreuse-dark&hide_border=true&background=050f05&ring=00cc00&fire=39ff14&currStreakLabel=39ff14&border_radius=12&sideLabels=ccffcc&dates=99cc99" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokkumardalei-wq&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=050f05&title_color=39ff14&text_color=ccffcc&border_radius=12&langs_count=8&custom_title=🧬+DNA+Language+Breakdown" width="44%" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alokkumardalei-wq&theme=github_dark&utcOffset=5.5" width="44%" />
-
-</div>
-
----
-
-## 🧬 WakaTime Dev Metrics
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-> ⏱️ *Connect WakaTime to auto-populate real coding time stats*
-<!--END_SECTION:waka-->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alokkumardalei-wq&custom_title=👻+Ghostfreak+Haunting+Your+Commits&bg_color=050f05&color=39ff14&line=00cc00&point=ffffff&area_color=003300&area=true&hide_border=true&radius=8" width="97%"/>
-
-</div>
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
-## 🛰️ Currently Wiring Up
 
-```bash
-$ omnitrix --status
-
-[ ACTIVE MISSIONS ]
-  ├─ 🔨  Engineering a backend service in Go + PostgreSQL
-  ├─ ⚡  Solving 3 LeetCode problems daily (graphs + DP sprint)
-  ├─ 🐳  Containerizing personal projects with Docker Compose
-  ├─ 🦀  Learning Rust ownership model (it bites, but I bite back)
-  └─ 🌐  Building a full-stack SaaS side project
-
-[ NEXT ALIEN FORMS TO UNLOCK ]
-  ├─ 📦  Kafka · RabbitMQ · Message Queues
-  ├─ ☁️   Terraform · Infrastructure as Code
-  └─ 🔬  WebAssembly · WASM runtimes
-```
-
----
-🗺️ Contribution Heatmap — Omnitrix DNA Scan
-
-<div align="center">
-<a href="https://github.com/alokkumardalei-wq?tab=overview&from=2026-01-01&to=2026-12-31">
-  <img src="https://ghchart.rshah.org/00cc00/alokkumardalei-wq" alt="Alok's GitHub Contribution Heatmap — click for live interactive graph" width="97%" />
-</a>
-<sub>👆 Click the heatmap to see exact daily contribution counts on my live GitHub graph</sub>
-
-</div>
-
-> *"No matter what, I never give up. That's just what heroes do."* — **Ben Tennyson**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,40:003300,100:000000&height=160&section=footer&text=Keep+Transforming.+Never+Stop.&fontSize=30&fontColor=39ff14&animation=twinkling&desc=Omnitrix+Unlocked+%E2%80%94+Unstoppable+%F0%9F%94%B4&descSize=16&descColor=ccffcc&descAlignY=78" width="100%"/>
-
-</div>
 
 
