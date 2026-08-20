@@ -10,10 +10,10 @@ I'm a software developer from India, focused on backend systems, distributed inf
 ### Featured Projects
 
 **[csr-sentry](https://github.com/alokkumardalei-wq/csr-sentry)** — Kubernetes CSR diagnostics CLI · `Go` `client-go`
-A CLI that explains *why* a CertificateSigningRequest is stuck, instead of leaving operators staring at `Pending`. It encodes the real behavior of each built-in approver — e.g. `kubelet-serving` is never auto-approved, and "approved but unissued" means the signer is down, not that approval failed. Born out of a real production incident where a node-onboarding failure surfaced as a timeout at every layer, with the actual cause buried three layers down in a pending CSR. Includes allowlist-gated auto-approval with dry-run on by default, backed by a pure, fully unit-tested classifier.
+Explains why a CertificateSigningRequest is stuck instead of leaving operators staring at `Pending`, by encoding how each built-in approver actually behaves. Includes allowlist-gated auto-approval with dry-run on by default, backed by a fully unit-tested classifier.
 
 **[kubepulse](https://github.com/alokkumardalei-wq/kubepulse)** — Live cluster trouble feed · `Go` `TypeScript`
-Streams container restarts, OOM kills, failed pods, and warning events to a live web UI in real time. Uses client-go informers to diff restart counts and read last-termination state, distinguishing an OOM kill from a plain crash. Ships as a single static binary with a strict-TypeScript UI embedded via `go:embed`, streamed over SSE with replay for new clients and drop-on-backpressure so a stalled browser tab can never block the informer path. Deploys via a linted Helm chart with minimal `get/list/watch` RBAC on pods and events, running as a non-root distroless container.
+Streams container restarts, OOM kills, and failed pods to a live web UI via client-go informers, distinguishing OOM kills from plain crashes. Ships as a single static binary with an embedded UI over SSE and minimal RBAC via a Helm chart.
 
 
 ## 🌐 Socials:
