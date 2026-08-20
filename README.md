@@ -1,8 +1,19 @@
 # 💫 About Me:
-- Building a Go + PostgreSQL service, deploy with Docker Compose<br>
-- Working through graph and DP problems on LeetCode<br>
-- Reading *Designing Data-Intensive Applications*<br>
-- Next: Kafka, Terraform<br>
+I'm a software developer from India, focused on backend systems, distributed infrastructure, and Kubernetes tooling. I enjoy digging into how systems fail in production and building tools that make those failures legible.
+
+**Currently:**
+- Building a Go + PostgreSQL service, deployed via Docker Compose
+- Sharpening algorithms through graph and DP problems on LeetCode
+- Reading *Designing Data-Intensive Applications*
+- Exploring Kafka and Terraform next
+
+### 🔧 Featured Projects
+
+**[csr-sentry](https://github.com/alokkumardalei-wq/csr-sentry)** — Kubernetes CSR diagnostics CLI · `Go` `client-go`
+A CLI that explains *why* a CertificateSigningRequest is stuck, instead of leaving operators staring at `Pending`. It encodes the real behavior of each built-in approver — e.g. `kubelet-serving` is never auto-approved, and "approved but unissued" means the signer is down, not that approval failed. Born out of a real production incident where a node-onboarding failure surfaced as a timeout at every layer, with the actual cause buried three layers down in a pending CSR. Includes allowlist-gated auto-approval with dry-run on by default, backed by a pure, fully unit-tested classifier.
+
+**[kubepulse](https://github.com/alokkumardalei-wq/kubepulse)** — Live cluster trouble feed · `Go` `TypeScript`
+Streams container restarts, OOM kills, failed pods, and warning events to a live web UI in real time. Uses client-go informers to diff restart counts and read last-termination state, distinguishing an OOM kill from a plain crash. Ships as a single static binary with a strict-TypeScript UI embedded via `go:embed`, streamed over SSE with replay for new clients and drop-on-backpressure so a stalled browser tab can never block the informer path. Deploys via a linted Helm chart with minimal `get/list/watch` RBAC on pods and events, running as a non-root distroless container.
 
 
 ## 🌐 Socials:
