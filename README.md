@@ -9,10 +9,10 @@ I'm a software developer from India, focused on backend systems, distributed inf
 
 ### Featured Projects
 
-**[csr-sentry](https://github.com/alokkumardalei-wq/csr-sentry)** — Kubernetes CSR diagnostics CLI · `Go` `client-go`
+**[csr-sentry](https://github.com/alokkumardalei-wq/csr-sentry)** - Kubernetes CSR diagnostics CLI · `Go` `client-go`
 Explains why a CertificateSigningRequest is stuck instead of leaving operators staring at `Pending`, by encoding how each built-in approver actually behaves. Includes allowlist-gated auto-approval with dry-run on by default, backed by a fully unit-tested classifier.
 
-**[kubepulse](https://github.com/alokkumardalei-wq/kubepulse)** — Live cluster trouble feed · `Go` `TypeScript`
+**[kubepulse](https://github.com/alokkumardalei-wq/kubepulse)** - Live cluster trouble feed · `Go` `TypeScript`
 Streams container restarts, OOM kills, and failed pods to a live web UI via client-go informers, distinguishing OOM kills from plain crashes. Ships as a single static binary with an embedded UI over SSE and minimal RBAC via a Helm chart.
 
 
