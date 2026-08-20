@@ -1,5 +1,8 @@
 # 💫 About Me:
-- Building a Go + PostgreSQL service, deployed with Docker Compose<br>- Working through graph and DP problems on LeetCode<br>- Reading *Designing Data-Intensive Applications*<br>- Next: Kafka, Terraform<br>
+- Building a Go + PostgreSQL service, deploy with Docker Compose<br>
+- Working through graph and DP problems on LeetCode<br>
+- Reading *Designing Data-Intensive Applications*<br>
+- Next: Kafka, Terraform<br>
 
 
 ## 🌐 Socials:
@@ -12,13 +15,7 @@
 ![](https://streak-stats.demolab.com/?user=alokkumardalei-wq&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=alokkumardalei-wq&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alokkumardalei-wq&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=alokkumardalei-wq&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
