@@ -7,7 +7,7 @@ I'm a software developer from India, focused on backend systems, distributed inf
 - Reading *Designing Data-Intensive Applications*
 - Exploring Kafka and Terraform next
 
-### 🔧 Featured Projects
+### Featured Projects
 
 **[csr-sentry](https://github.com/alokkumardalei-wq/csr-sentry)** — Kubernetes CSR diagnostics CLI · `Go` `client-go`
 A CLI that explains *why* a CertificateSigningRequest is stuck, instead of leaving operators staring at `Pending`. It encodes the real behavior of each built-in approver — e.g. `kubelet-serving` is never auto-approved, and "approved but unissued" means the signer is down, not that approval failed. Born out of a real production incident where a node-onboarding failure surfaced as a timeout at every layer, with the actual cause buried three layers down in a pending CSR. Includes allowlist-gated auto-approval with dry-run on by default, backed by a pure, fully unit-tested classifier.
